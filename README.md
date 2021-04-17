@@ -1,4 +1,3 @@
-```
 # Unit 1 Homework Assignment: FinTech Case Study: Payments/Billing
 
 ## Overview and Origin
@@ -60,21 +59,3 @@ https://www.paymentsjournal.com/a-look-at-blockchain-in-cross-border-payments/
 https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html
 https://www.pymnts.com/news/b2b-payments/2020/deep-dive-businesses-new-technologies-optimize-cross-border-b2b-payments/
 https://paymentsnext.com/b2b-cross-border-payments-may-recover-30-by-2022/
-
-```
-
-#### 5. Upload your case study to your git repository.
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
-
----
-
-## Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
-
